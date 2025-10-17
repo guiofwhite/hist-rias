@@ -35,7 +35,6 @@
 		flex-direction: column;
 		flex-wrap: wrap;
 		text-align: center;
-		align-items: center;
 	}
 
 	a{
@@ -47,20 +46,14 @@
 		transition: background-color 5s, width 5s, height 5s;
 		padding: 29px;
 		margin: 25px 300px;
-		width: 750px;
-		height: 500px;
+		width: 150px;
+		height: 80px;
 		box-shadow: 0 0 35px black;
-		overflow: hidden;
 	}
 
 	a:hover{
 		background-color: rgb(255, 227, 166);
-		
+		width: 750px;
+		height: 500px;
 	}
-
-
-	#galorato{
-		margin: 30px 500px 0;
-		width: 500px;
-		margin-left: -500px;
-	}
+	
