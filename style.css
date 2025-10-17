@@ -46,3 +46,7 @@
 		padding: 29px;
 		margin: 25px 300px;
 	}
+
+	a:hover{
+		background-color: indigo;
+	}
