@@ -42,6 +42,7 @@
 		list-style-type: none;
 		text-decoration: none;
 		border: 1px solid white;
-		padding: 10px;
-		margin: 10px 300px;
+		transition: background-color 5s;
+		padding: 29px;
+		margin: 25px 300px;
 	}
