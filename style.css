@@ -49,10 +49,15 @@
 		width: 150px;
 		height: 80px;
 		box-shadow: 0 0 35px black;
+		overflow: hidden;
 	}
 
 	a:hover{
 		background-color: rgb(255, 227, 166);
 		width: 750px;
 		height: 500px;
+	}
+
+	#galorato{
+		width: 300px;
 	}
