@@ -45,8 +45,8 @@
 		transition: background-color 5s, width 5s, height 5s;
 		padding: 29px;
 		margin: 25px 300px;
-		width: 30px;
-		height: 20px;
+		width: 200px;
+		height: 100px;
 	}
 
 	a:hover{
