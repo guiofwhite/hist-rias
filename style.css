@@ -42,11 +42,13 @@
 		list-style-type: none;
 		text-decoration: none;
 		border: 1px solid white;
-		transition: background-color 5s;
+		transition: background-color 5s, width 0.5s, height 0.5s;
 		padding: 29px;
 		margin: 25px 300px;
 	}
 
 	a:hover{
-		background-color: indigo;
+		background-color: rgb(255, 227, 166);
+		width: 1000px;
+		height: 1000px;
 	}
