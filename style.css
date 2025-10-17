@@ -47,6 +47,7 @@
 		margin: 25px 300px;
 		width: 200px;
 		height: 100px;
+		box-shadow: 0 0 60px black;
 	}
 
 	a:hover{
